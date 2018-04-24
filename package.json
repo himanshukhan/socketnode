@@ -1,0 +1,24 @@
+{
+  "name": "socket-example",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Michael Heap <m@michaelheap.com>",
+  "dependencies": {
+    "socket.io": "^2.1.0",
+    "socket.io-adapter": "~1.1.0",
+    "socket.io-client": "2.1.0",
+    "socket.io-parser": "~3.2.0"
+  },
+  "devDependencies": {
+    "expect.js": "0.3.1",
+    "mocha": "^3.5.3",
+    "nyc": "^11.2.1",
+    "superagent": "^3.8.2",
+    "supertest": "^3.0.0"
+  }
+}
